@@ -1,0 +1,9 @@
+{
+    "enabled":  true,
+    "version":  "1.0.0",
+    "lib_url":  "https://github.com/guddu1paswan11-glitch/sigma-panel/releases/download/lib-v1.0.0/libil2cpp.so",
+    "sha256":  "e01a2287c9d3725cd90697ec5b14289df329c3d22c9a256817fe0ea7e01b5d89",
+    "size":  100504120,
+    "maintenance":  false,
+    "maintenance_msg":  "SIGMA is under maintenance. Try again later."
+}
